@@ -5,7 +5,7 @@ This project aims to analyze the Gross Domestic Product (GDP) data of countries 
 
 
 ## Dataset
-The dataset used in this project consists of GDP data for all countries across the world. It includes variables such as country name, GDP value, and possibly additional features such as GDP growth rate, GDP per capita, and year.
+The dataset used in this project consists of GDP data for all countries across the world. It includes variables such as country name, GDP value, and possibly additional features such as GDP growth rate and year.
 
 ## Goals
 - Explore and visualize the GDP trends of different countries.
